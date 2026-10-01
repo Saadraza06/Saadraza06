@@ -5,9 +5,7 @@
 </div>
 
 <div align="center">
-
-### Data Scientist
-
+  
 **Python • SQL • Machine Learning • Data Analytics • AI**
 
 <br>
