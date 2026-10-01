@@ -26,19 +26,16 @@
 
 ---
 
-## 🧠 Data Scientist
+## 👋 Introduction
 
-I work at the intersection of **data, machine learning, and AI**, building solutions that turn raw data into useful insights and intelligent applications.
+Hi, I'm **Muhammad Saad Raza**, a **Data Scientist** passionate about transforming data into meaningful insights and intelligent solutions.
 
-* 📊 Data analysis & exploratory data analysis
-* 🤖 Machine learning & predictive modeling
-* 🧹 Data cleaning & feature engineering
-* 📈 Data visualization & dashboards
-* 🧠 Generative AI & Gemini applications
-* 🌐 Google APIs & location-based services
-* 🐳 Docker & cloud deployment
+I work with **Python, SQL, Machine Learning, Data Analytics, and AI**, with hands-on experience in data cleaning, exploratory data analysis, feature engineering, predictive modeling, and visualization.
 
----
+I'm also interested in building **AI-powered applications**, working with **Google Gemini and APIs**, and deploying real-world solutions using **Docker and Google Cloud Run**.
+
+Currently, I'm pursuing a **Bachelor of Data Analytics at Government College University Faisalabad** and continuously building projects to strengthen my skills in Data Science and Artificial Intelligence.
+
 
 ## 💼 Experience
 
