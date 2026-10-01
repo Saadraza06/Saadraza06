@@ -24,15 +24,13 @@
 
 ---
 
-## 👋 Introduction
+## 👋 Hey, I'm Saad!
 
-Hi, I'm **Muhammad Saad Raza**, a **Data Scientist** passionate about transforming data into meaningful insights and intelligent solutions.
+I'm a **Data Scientist** who enjoys turning messy data into meaningful insights and building intelligent solutions with **Python, SQL, Machine Learning & AI**.
 
-I work with **Python, SQL, Machine Learning, Data Analytics, and AI**, with hands-on experience in data cleaning, exploratory data analysis, feature engineering, predictive modeling, and visualization.
+🎓 Currently pursuing a **Bachelor of Data Analytics at Government College University Faisalabad**, while building real-world projects and exploring the world of **Data Science, AI, and intelligent applications**.
 
-I'm also interested in building **AI-powered applications**, working with **Google Gemini and APIs**, and deploying real-world solutions using **Docker and Google Cloud Run**.
-
-Currently, I'm pursuing a **Bachelor of Data Analytics at Government College University Faisalabad** and continuously building projects to strengthen my skills in Data Science and Artificial Intelligence.
+> **Learn → Build → Experiment → Repeat 🚀**
 
 
 ## 💼 Experience
